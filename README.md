@@ -7,4 +7,4 @@ This Power BI dashboard provides a comprehensive analysis of the popular movies 
 
 PDF file link - https://drive.google.com/file/d/1L7B3AVwvg8XyK3j-P3rrR_FCMRkoKbwa/view?usp=sharing
 PDF link - https://drive.google.com/file/d/1SWts9V830557dbNVnFNaUTgStLhcpDtt/view?usp=sharing
-Canva PPT - https://www.canva.com/design/DAGDxoznmNg/koK_9cZkEbpoEzC6GnOz1A/edit?utm_content=DAGDxoznmNg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+PPT link - https://drive.google.com/file/d/1cNz9zBX27wQT2LEQthGWZQf7mow6MpvG/view?usp=sharing
